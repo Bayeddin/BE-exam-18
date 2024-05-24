@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Migrations\\20240524042621_createTeamTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BE-exam-18\\Migrations\\20240524042621_createTeamTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|c:\\users\\ca.r214.17\\desktop\\be-exam-18\\be-exam-18\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6572EC5B-4E77-4435-A101-9360065999C4}|BE-exam-18\\BE-exam-18.csproj|solutionrelative:be-exam-18\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:33:32.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Team\\Update.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Views\\Team\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Team\\Update.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Views\\Team\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:20:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BE-exam-18\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:09:04.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BE-exam-18\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:09:57.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:08:25.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:28:17.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:34:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADIBAAAAAAAAAAAAAEkBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:16:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:08:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Program.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Program.cs",
+              "RelativeToolTip": "BE-exam-18\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:08:51.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\ViewModel\\LoginVm.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\ViewModel\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\ViewModel\\LoginVm.cs",
+              "RelativeToolTip": "BE-exam-18\\ViewModel\\LoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:28:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Team\\Create.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Views\\Team\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Team\\Create.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Views\\Team\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:56:06.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:28:37.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwE0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:33:13.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACIBAAAAAAAAAAAYwDQBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:28:19.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:28:00.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:29:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\ViewModel\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\ViewModel\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\ViewModel\\RegisterVm.cs",
+              "RelativeToolTip": "BE-exam-18\\ViewModel\\RegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:28:38.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Models\\User.cs",
+              "RelativeToolTip": "BE-exam-18\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:20:13.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Models\\Team.cs",
+              "RelativeToolTip": "BE-exam-18\\Models\\Team.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:20:03.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BE-exam-18\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BE-exam-18\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T04:27:08.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:28:51.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240524042621_createTeamTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Migrations\\20240524042621_createTeamTable.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\Migrations\\20240524042621_createTeamTable.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Migrations\\20240524042621_createTeamTable.cs",
+              "RelativeToolTip": "BE-exam-18\\Migrations\\20240524042621_createTeamTable.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:26:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\appsettings.json",
+              "RelativeDocumentMoniker": "BE-exam-18\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\appsettings.json",
+              "RelativeToolTip": "BE-exam-18\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T04:22:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BE-exam-18\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "BE-exam-18\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:19:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BE-exam-18\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.17\\Desktop\\BE-exam-18\\BE-exam-18\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BE-exam-18\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwG8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:16:24.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1033,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
